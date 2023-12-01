@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="entity.Directivo"/>
+<fullyQualifiedTypeName name="entity.Operario"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="entity.Empleado"/>
+<fullyQualifiedTypeName name="entity.Programador"/>
+<fullyQualifiedTypeName name="entity.Figura"/>
+<fullyQualifiedTypeName name="entity.Cuadrado"/>
+<fullyQualifiedTypeName name="entity.Triangulo"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

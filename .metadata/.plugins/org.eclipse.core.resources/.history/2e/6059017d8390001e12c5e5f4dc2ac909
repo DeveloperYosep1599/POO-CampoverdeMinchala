@@ -1,0 +1,19 @@
+package uisrael.poo.lab2;
+
+import java.text.*;
+import java.util.Locale;
+public class Outputvariable {
+	public static void main(String[] args) {
+		long numero=12309822;
+		double pi=Math.PI;
+		
+		System.out.printf("%d %n",numero);
+		System.out.printf("%d08d %n",numero);
+		System.out.printf("%+d %n",numero);
+		Locale.setDefault(Locale.US);//usa el formato de US para imprimir numeros
+		DecimalFormat formato1=new DecimalFormat("###,###.##");
+		String valorFormateado1= formato1.format(numero);
+		System.out.printf("%s %n", valorFormateado1);
+		
+	}
+}

@@ -1,0 +1,10 @@
+package test;
+
+import entity.Cuadrado;
+
+public class Test {
+public static void main(String args[]) {
+	Cuadrado figura1=new Cuadrado("Rojo", 5);
+	figura1.area();
+}
+}

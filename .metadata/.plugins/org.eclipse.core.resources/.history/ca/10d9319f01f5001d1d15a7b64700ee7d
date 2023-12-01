@@ -1,0 +1,6 @@
+package entity;
+
+public class Cuadrado extends Figura {
+	private static final long serialVersionUID = 1L;
+	
+}

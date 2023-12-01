@@ -1,0 +1,17 @@
+package entity;
+
+public class Cuadrado extends Figura {
+	private static final long serialVersionUID = 1L;
+	
+	private int area;
+	
+	public Cuadrado() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public Cuadrado(String color, int area) {
+		super(color);
+		this.area = area;
+	}
+	
+}
